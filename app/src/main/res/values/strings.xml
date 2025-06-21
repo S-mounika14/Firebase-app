@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirebaseapp</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="accessibility_service_description">Your accessibility service description here</string>
+
+
+</resources>

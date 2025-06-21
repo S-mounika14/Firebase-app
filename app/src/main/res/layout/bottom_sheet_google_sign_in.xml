@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+
+    android:background="@drawable/dialogue_back">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign in with Google"
+        android:textSize="20sp"
+        android:textColor="#333333"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/googleSignInConfirmButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Google Account"
+        android:backgroundTint="#9F83D3"
+        android:textColor="#FFFFFF"
+        android:padding="12dp"/>
+</LinearLayout>
